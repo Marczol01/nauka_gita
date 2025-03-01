@@ -6,3 +6,5 @@ Opis: linki i komendy przydatne do nauki GITa
 3. Jak pracować z Markdown - [link](https://github.com/skills/communicate-using-markdown)
 ## Ćwiczenia
 1. Learn Git branching - [link](https://learngitbranching.js.org/)
+## Pytaniach rekrutacyjne
+1. Git pytania rekrutacyjne 2024 [link](https://mockit.pl/blog/pytania-rekrutacyjne-git)
